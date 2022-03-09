@@ -18,3 +18,8 @@ int main(){       //int refers to the return type
 
     return 0;    // 0 indicates success
 }                //curly braces for code blocks in C++
+
+/* Notes: 
+- Everything in c++ must have a type declaration
+- Must have int main() -> return 0
+*/
